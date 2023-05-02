@@ -1,5 +1,6 @@
 .gpt3__whatgpt3 {
     display: flex;
+    z-index: -1;
     flex-direction: column;
 
     padding: 2rem;

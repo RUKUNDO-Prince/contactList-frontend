@@ -2,8 +2,11 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-
+    position: fixed;
+    background: var(--color-footer);
+    width: 100%;
     padding: 2rem 6rem;
+    z-index: 1;
 }
 
 .gpt3__navbar-links {
